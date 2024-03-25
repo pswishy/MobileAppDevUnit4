@@ -1,9 +1,16 @@
-<div style="position: relative; padding-bottom: 216.2162162162162%; height: 0;"><iframe src="https://www.loom.com/embed/2caa2811d9794d4ea3f74b2d1db28cf8?sid=6609b6a7-c2a3-4da6-912e-eb8228f3ddd8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 # Project 4 - *Photo Scavenger Hunt*
 
 Submitted by: **Pierce Medy**
 
+<div>
+    <a href="https://www.loom.com/share/2caa2811d9794d4ea3f74b2d1db28cf8">
+      <p>Unit 4 Photo Scavenger Hunt - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2caa2811d9794d4ea3f74b2d1db28cf8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2caa2811d9794d4ea3f74b2d1db28cf8-with-play.gif">
+    </a>
+  </div>
+  
 **Photo Scavenger Hunt** is an app that ... allows a user to mark tasks as completed by adding an image 
 
 Time spent: **X** hours spent in total
